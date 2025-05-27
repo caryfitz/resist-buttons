@@ -8,29 +8,45 @@ Laser-cut buttons inspired by POTUS 47
 
 # Buttons
 
+## Done
 * No king of America
 * I'm *For* due process
+* I stand with Ukraine
+* Foxtrot Delta Tango
+* Clean up on aisle 47
+* Resist fascism
+* Stand with democracy, stand with Ukraine.  Defy Putin.
+* FOR vaccines/FOR public health | Measles is BAD
+* Jesus was WOKE
+* THINK - while it's still legal
+
+## Next
+* Fire the felon
+* Racism is NOT patriotism
+* We won't obey in advance
+* Public lands in public hands!
+* Emperor Cheeto has no clothes
+* Bad DOGE!
+* The Holocaust started as mass deportations
+* 'Merica done stepped in DOGE shit
+* Impeach/indict/imprison
+
+## Ideas
 * Project 2025 - no thanks!
 * Trump is a malignant threat to democracy
 * Pro-democracy, pro-Constitution, anti-executive-overreach, nonviolent grassroots
 * I’m here fighting for your due process,
-* Stand with democracy, stand with Ukraine.  Defy Putin.
-* Resist fascism
 * When democracy was threatened, what did you DO?  Do you have the GUTS?
 * Using IRS, SSA for political benefit
 * Resist the SAVE act
-* FOR vaccines/FOR public health | Measles is BAD
 * Let them eat Teslas
 * Save America from Trump
 * Brown shirts/white hoods/red hats
 * How do you piss off CANADA?
-* Lord Cheeto has no clothes
-* Stop pretending racism is patriotism
 
 * Tariffs hurt farmers
 
 * I stand with Taiwan
-* I stand with Ukraine
 * Canadians are friends/Why do I have to say this?
 * Greenland is our friend
 * NATO = allies
@@ -42,12 +58,10 @@ Laser-cut buttons inspired by POTUS 47
 
 
 * Hands off citizens' private data
-* Bad DOGE!
 * Hands off Head Start/Medicaid
 * USAID - American Values/Strengths
 
 * VOTE if you value Education
-* The Holocaust started as mass deportations
 * Hate is not the American way
 * At this point, if you support Trump, you are either rich, a racist or plain stupid
 * TRUMP sandwich - white bread, full of baloney, Russian dressing and a SMALL pickle
@@ -58,13 +72,9 @@ Laser-cut buttons inspired by POTUS 47
 * When the power of love overcomes the love of power the world will know peace
 * Little girls with dreams become women with vision
 * How do I explain to you that you should care about other people
-* Jesus was WOKE
 * "Speaking the TRUTH is only a crime in countries run by Tyrants" - Liz Cheney
 * I trust women/pro-choice
-* Public lands belong in public hands
 * May the fetus you save be Gay
-* 'Merica done stepped in DOGE shit
-* Impeach/indict/imprison
 * Criminally rich/morally bankrupt
 
 * We are all equal
@@ -77,24 +87,21 @@ Laser-cut buttons inspired by POTUS 47
 * Kindness matters
 
 * Respect existence or expect resistance
-* Fire the felon
+* Measles, tariffs and deportation do not make America great
 * HANDS OFF - social security - veterans, libraries, national parks, medicare, post office, freedom - OUR COUNTRY
-* THINK - while it's still legal
-
 * If you aren't outraged, you're not paying attention
 * We are done accepting the things we cannot change - its time to change the things we cannot accept
 * The minority destroying our country is billionaires
 * Stop the Turd Reich
 * Hands off social security - we're old ladies with nothing to lose
 * Evil triumphs when good people do nothing.  What are you doing.
-* Resist - Courage is contagious
-* Foxtrot Delta Tango
-* Clean up on aisle 47
+* Courage is contagious
 * There are smarter cabinets at IKEA
 * If you're not enraged you're not paying attention
 * Dear rest of the world - we're sorry!  Signed, America.
 * Everyone is welcome here (was that so hard?)
 * Vaccines save lives
+
 * Silence is compliance - use your voice to demand change
 * Resist proactively
 * Peaceful protest is patriotic
