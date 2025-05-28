@@ -24,22 +24,23 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.131677"
-     inkscape:cx="-41.751167"
-     inkscape:cy="53.479023"
+     inkscape:zoom="4.4589143"
+     inkscape:cx="94.754007"
+     inkscape:cy="94.866142"
      inkscape:window-width="1896"
      inkscape:window-height="1032"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="engrave"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-79.9,-123.4)">
+     transform="translate(-79.9,-123.4)"
+     style="display:inline">
     <g
        id="g3"
        transform="matrix(0.84128243,0,0,0.99770088,48.639018,23.987956)"
@@ -57,12 +58,19 @@
          transform="scale(0.88565857,1.1291033)"
          aria-label="WTF" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cut"
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linejoin:round"
        id="rect3"
        width="50"
        height="50"
        x="80"
-       y="123.5" />
+       y="123.5"
+       transform="translate(-79.899999,-123.4)" />
   </g>
 </svg>
