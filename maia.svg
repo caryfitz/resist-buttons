@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="4.2816568"
-     inkscape:cx="53.951078"
+     inkscape:cx="53.834301"
      inkscape:cy="113.50746"
      inkscape:window-width="1896"
      inkscape:window-height="1032"
@@ -35,7 +35,7 @@
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="engrave"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-29.222145,-121.85261)">
@@ -93,6 +93,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Layer 2"
-     transform="translate(2.263271,5.4119403)" />
+     inkscape:label="cut"
+     transform="translate(2.263271,5.4119403)"
+     style="display:none" />
 </svg>
