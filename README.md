@@ -43,6 +43,7 @@ Laser-cut buttons inspired by POTUS 47
 * Save America from Trump
 * Brown shirts/white hoods/red hats
 * How do you piss off CANADA?
+* The notion that someone does not want Donald Trump to remain in the presidency because of all the things that he's done and his piss-poor character is not the same thing as calling for his assassination.  If you need me to explain that, you probably wouldn't understand it you stupid moron.
 
 * Tariffs hurt farmers
 
